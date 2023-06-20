@@ -11,7 +11,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Tony Zhou
+    - name: Home
       slug: /
     - name: Work
     - name: Blog
@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: tyzhou05@gmail.com
       link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
@@ -32,13 +32,13 @@ footer:
     - name: Facebook
       link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/tyzhou
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/tyzhou05
+    #- name: Dribbble
+    #  link: https://dribbble.com/YourDribbbleUsername
+    #- name: RSS
+     # link: /feed.xml
 
 # Build settings
 markdown: kramdown
