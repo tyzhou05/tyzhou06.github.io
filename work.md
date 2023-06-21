@@ -3,18 +3,23 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: CubeSats
-    image:
-      src: /assets/img/work/nasameatballsquare.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   - title: Chess
     image:
       src: /assets/img/work/chesscomsquare.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      alt: Chess.com
+    description: Head honcho and checkmating connoisseur of my school's chess club. Also became a Chess.com College Ambassador recently!
+  - title: Starbucks
+    image:
+      src: /assets/img/work/starbucks.png
+      alt: Starbucks
+    description: Made mochas, macchiatos, and (hopefully) many customer's days as a barista.
+  - title: NASA Ames
+    image:
+      src: /assets/img/work/nasameatball.png
+      alt: NASA
+    description: Did some research on small satellite missions and got lots of cool posters!
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+Here are some things I've done before, in no particular order:
 <br />
 <br />
