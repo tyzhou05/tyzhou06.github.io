@@ -1,14 +1,14 @@
 ---
-layout: work
-title: Work
-slug: /work
+layout: Things I've Done
+title: Things I've Done
+slug: /TestTest
 items:
-  - title: My Interest 1
+  - title: CubeSats
     image:
       src: /assets/img/work/water.png
       alt: water
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+  - title: Chess
     image:
       src: /assets/img/work/sand.png
       alt: sand
