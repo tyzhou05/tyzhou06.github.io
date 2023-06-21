@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/starbucks.png
       alt: Starbucks
-    description: Made mochas, macchiatos, and (hopefully) many customer's days as a barista.
+    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer at the bucks.
   - title: NASA Ames
     image:
       src: /assets/img/work/nasameatball.png
