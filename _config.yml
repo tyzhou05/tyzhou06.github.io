@@ -22,19 +22,24 @@ footer:
     - name: Email
       value: tyzhou05@uw.edu
       link: mailto:tyzhou05@uw.edu
+    - name: Phone
+      value: (650) 515-8850
+      link: "tel:+16505158850"
     #- name: WeChat
       #value: YourWeChatUsername
       #link: "#"
   follow:
-    #- name: Instagram
-      #link: http://instagram.com/tyzhouu
-      #username: "@tyzhouu"
     #- name: TESTBOOK
      # link: http://facebook.com/tyzhou05
     - name: LinkedIn
       link: http://linkedin.com/in/tyzhou
     - name: GitHub
       link: http://github.com/tyzhou05
+    - name: Instagram
+      link: http://instagram.com/tyzhouu
+      username: "@tyzhouu"
+    - name: Spotify
+      link: https://open.spotify.com/user/t18fi1lyu4vrwmym2qlyzqt0w?si=565c6e0f73c44f53
     #- name: Dribbble
     #  link: https://dribbble.com/YourDribbbleUsername
     #- name: RSS
