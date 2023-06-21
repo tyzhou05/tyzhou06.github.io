@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/chesscomsquare.png
       alt: Chess.com
-    description: Head honcho and checkmating connoisseur of my school's chess club. Also became a Chess.com College Ambassador recently!
+    description: Head honcho and checkmating connoisseur at my school's chess club. Also became a Chess.com College Ambassador recently!
   - title: Starbucks
     image:
       src: /assets/img/work/starbucks.png
@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/nasameatball.png
       alt: NASA
-    description: Did some research on small satellite missions and got lots of cool posters!
+    description: Researched academia-led small satellite missions and picked up lots of cool posters!
 ---
 
 Here are some things I've done before, in no particular order:
