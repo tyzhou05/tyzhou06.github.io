@@ -4,8 +4,8 @@
 title: Tony's Website!
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website!
-baseurl: "/tyzhou06.github.io" # the subpath of the site
-url: "https://tyzhou05.github.io/" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+url: "https://tyzhou.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
