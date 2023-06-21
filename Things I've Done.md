@@ -1,7 +1,7 @@
 ---
 layout: work
-title: Things I've Done
-slug: /TestTest
+title: Work
+slug: /work
 items:
   - title: CubeSats
     image:
