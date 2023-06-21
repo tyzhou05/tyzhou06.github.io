@@ -13,7 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Things I've Done
+    - name: Work
     - name: Blog?
 
 footer:
