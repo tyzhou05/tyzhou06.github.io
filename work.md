@@ -7,12 +7,12 @@ items:
     image:
       src: /assets/img/work/chesscomsquare.png
       alt: Chess.com
-    description: Head honcho and checkmating connoisseur at my school's chess club. Also became a Chess.com College Ambassador recently!
+    description: My favorite piece is the horsey :)
   - title: Starbucks
     image:
       src: /assets/img/work/starbucks.png
       alt: Starbucks
-    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer at the bucks.
+    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer.
   - title: NASA Ames
     image:
       src: /assets/img/work/nasameatball.png
