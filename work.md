@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/chesscomsquare.png
       alt: Chess.com
-    description: My favorite piece is the horsey :)
+    description: Not too sure if this counts as "work", but my favorite piece is the horsey :)
   - title: Starbucks
     image:
       src: /assets/img/work/starbucks.png
