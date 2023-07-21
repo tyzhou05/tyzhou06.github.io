@@ -12,12 +12,12 @@ items:
     image:
       src: /assets/img/work/starbucks.png
       alt: Starbucks
-    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer
+    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer!
   - title: NASA Ames
     image:
       src: /assets/img/work/nasameatball.png
       alt: NASA
-    description: Researching small satellite missions and picking up cool posters on the side
+    description: Researching small satellite missions; picking up space-themed posters on the side
 ---
 
 Here are some things I'm doing, in no particular order:
