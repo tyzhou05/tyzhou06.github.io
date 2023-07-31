@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  Currently this summer, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify k-pop playlists, collect various articles of clothing with embroidered symbols, and try to do many more things that don't alliterate with c. 
+  Currently this summer, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify playlists spanning every artist from Aries to Zedd, collect various articles of clothing with embroidered symbols, and try to do many more things that don't alliterate with c. 
 </p>
 
 <p>
