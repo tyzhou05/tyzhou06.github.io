@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Tony (he/him), originally from Campbell, CA, but soon to be a freshman at the University of Washington, Seattle this fall. As I'm not quite too sure about what exactly I want to study (aero/astro? ece? hcde? cs?!) or really even end up doing in life yet, I thought it'd be a good idea to take the time this summer to revamp my personal website, so here I am!
+  Hi! I'm Tony (he/him), originally from San Jose, CA, but now currently a student at the University of Washington, Seattle.
 </p>
 
 <p>
@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  Currently this summer, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify playlists spanning every artist from Adele to Zedd, collect various articles of clothing with embroidered symbols, and try to do many more things that don't alliterate with c. 
+  Currently this summer, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify playlists spanning every artist from Adele to Zedd, collect various bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
 </p>
 
 <p>
