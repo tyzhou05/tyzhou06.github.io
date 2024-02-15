@@ -7,19 +7,19 @@ items:
     image:
       src: /assets/img/work/chesscomsquare.png
       alt: Chess.com
-    description: Not too sure if this counts as "work", but my favorite piece is the horsey :)
+    description: Not too sure if this counts as "work", but my favorite piece is the horsey
   - title: Starbucks
     image:
       src: /assets/img/work/starbucks.png
       alt: Starbucks
-    description: Making mochas, macchiatos, and (hopefully) many customer's days as a barista this summer!
+    description: Made mochas, macchiatos, and many customer's days as a barista
   - title: NASA Ames
     image:
       src: /assets/img/work/nasameatball.png
       alt: NASA
-    description: Researching small satellite missions; picking up space-themed posters on the side
+    description: Researched small satellite missions
 ---
 
-Here are some things I'm doing, in no particular order:
+Here are some other things I've done before, in no particular order:
 <br />
 <br />
