@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Tony (he/him), originally from San Jose, CA, but now currently a student at the University of Washington, Seattle.
+  Hi! I'm Tony (he/him), a student at the University of Washington studying Computer Science.
 </p>
 
 <p>
@@ -14,7 +14,11 @@ profile_picture:
 </p>
 
 <p>
-  Currently this summer, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify playlists spanning every artist from Adele to Zedd, collect various bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
+  At UW, I'm involved with Formula Motorsports, and the chess club. 
+</p>
+
+<p>
+  In my free time, I like to try new cafés around San José, walk my 9-month-old puppy, cook pastas, climb plastic rocks (will conquer those tricky purple v4s one day), curate my extensive-yet-basic Spotify playlists spanning every artist from Adele to Zedd, collect various bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
 </p>
 
 <p>
