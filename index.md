@@ -6,11 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Tony (he/him), currently a student at the University of Washington studying computer science, but originally from sunny San Jose, CA.
+  Hi! I'm Tony (he/him), currently an undergraduate student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington, but originally from sunny San Jose, California. I'm broadly interested in human-computer interaction research, accessibility, and augmented/virtual reality.
 </p>
 
 <p>
-  At UW, I'm a research assistant at the <a href = "https://makeabilitylab.cs.washington.edu/">Makeability Lab</a>, developing an AR running assistant with the Apple Vision Pro. I'm also involved with the <a href = "https://www.uwformulamotorsports.com/">UW Formula Motorsports</a> team, the <a href = "https://www.washington.edu/ima/uwild/climb-with-rec/climbing-spaces/crags-climbing-center/"> Crags Climbing Center</a> at the IMA, and the <a href = "https://www.instagram.com/csauw/"> Chinese Student Association</a>.
+  At UW, I'm a research assistant at the <a href = "https://makeabilitylab.cs.washington.edu/">Makeability Lab</a>, developing a holographic running assistant with the Apple Vision Pro. I'm also building a driverless racecar with <a href = "https://www.uwformulamotorsports.com/">UW Formula</a>, work part-time at my school's very own <a href = "https://www.washington.edu/ima/uwild/climb-with-rec/climbing-spaces/crags-climbing-center/"> climbing gym</a>, and have lots of fun with the <a href = "https://www.instagram.com/csauw/"> UW Chinese Student Association</a>.
 </p>
 
 <!--<p>
@@ -18,7 +18,7 @@ profile_picture:
 </p>-->
 
 <p>
-  In my free time, I like to try new coffee shops around Seattle, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, collect bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
+  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, collect bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
 </p>
 
 <p>

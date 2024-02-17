@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/chesscomsquare.png
       alt: Chess.com
-    description: Not too sure if this counts as "work", but my favorite piece is the horsey
+    description: My favorite piece is the horsey
   - title: Starbucks
     image:
       src: /assets/img/work/starbucks.png
@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/nasameatball.png
       alt: NASA
-    description: Researched small satellite missions
+    description: Signed an NDA to study CubeSat missions for a summer
 ---
 
 Here are some other things I've done before, in no particular order:
