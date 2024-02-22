@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Tony (he/him), currently an undergraduate student at the <a href = "https://cs.washington.edu/">Paul G. Allen School of Computer Science & Engineering</a> at the University of Washington, but originally from sunny San Jose, California. I'm broadly interested in human-computer interaction and accessibility research.
+  Hi! I'm Tony (he/him), currently an undergraduate student at the <a href = "https://cs.washington.edu/">Allen School of Computer Science & Engineering</a> at the University of Washington, but originally from sunny San Jose, California. I'm broadly interested in human-computer interaction and accessibility research.
 </p>
 
 <p>
