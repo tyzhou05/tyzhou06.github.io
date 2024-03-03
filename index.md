@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, collect bucket hats with embroidered symbols, and try to do many more things that don't alliterate with c. 
+  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats with embroidered symbols.
 </p>
 
 <p>
