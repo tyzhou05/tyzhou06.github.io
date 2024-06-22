@@ -6,11 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Hi! I'm Tony (he/him), currently an undergraduate studying computer science at the  <a href = "https://cs.washington.edu/"> <img src="/assets/img/uw.png" width="16px"> University of Washington</a>, but originally from sunny San Jose, California. I'm interested in human-comptuter interaction, augmented reality, and social computing research.
+  Hi! I'm Tony (he/him), currently an undergraduate studying computer science at the  <a href = "https://cs.washington.edu/"> <img src="/assets/img/uw.png" width="18px"> University of Washington</a>, but originally from sunny San Jose, California. I'm interested in human-computer interaction, augmented reality, and social computing research.
 </p>
 
 <p>
-  At UW, I'm a research assistant at the <a href = "https://makeabilitylab.cs.washington.edu/"><img src="/assets/img/makeability.png" width="18px">  Makeability Lab</a>, where I'm developing a holographic running assistant with the Apple Vision Pro. I'm also building path planning models for our first-ever fully autonomous racecar with <a href = "https://www.uwformulamotorsports.com/"><img src="/assets/img/uwfsae.png" width="20px"> UW Formula</a>, and work part-time at the <a href = "https://www.washington.edu/ima/uwild/climb-with-rec/climbing-spaces/crags-climbing-center/"><img src="/assets/img/crags.png" width="20px"> Crags Climbing Center</a> in the IMA. And before UW, I previously did some research in CubeSats and computational biology at <img src="/assets/img/nasa.png" width="18px"> NASA Ames and <img src="/assets/img/stanfordmed.png" width="20px">Stanford Med.
+  At UW, I'm a currently a researcher at the <a href = "https://makeabilitylab.cs.washington.edu/"><img src="/assets/img/makeability.png" width="18px">  Makeability Lab</a>, where I'm developing a holographic running assistant with the Apple Vision Pro. I'm also building path planning models for our first-ever fully autonomous racecar with <a href = "https://www.uwformulamotorsports.com/"><img src="/assets/img/uwfsae.png" width="20px"> UW Formula</a>, and work part-time at the <a href = "https://www.washington.edu/ima/uwild/climb-with-rec/climbing-spaces/crags-climbing-center/"><img src="/assets/img/crags.png" width="20px"> Crags Climbing Center</a> in the IMA. Before UW, I previously did some varied research in CubeSats, computational biology, and tissue engineering at <a href = "https://www.nasa.gov/smallsat-institute/"><img src="/assets/img/nasa.png" width="18px"> NASA Ames</a>, <a href = "https://www.ll.mit.edu/"><img src="/assets/img/mitll.png" width="18px"> MIT Lincoln Laboratory</a>, and <a href = "https://med.stanford.edu/huanglab.html"><img src="/assets/img/stanfordmed.png" width="20px">Stanford Med</a>.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ This summer, I'm interning at <a href = "https://ixl.com"> <img src="/assets/img
 </p>
 
 <p>
-  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats with embroidered symbols.
+  In my free time, I like to spend my days trying new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats.
 </p>
 
 <p>
