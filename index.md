@@ -18,7 +18,7 @@ This summer, I'm interning at <a href = "https://ixl.com"> <img src="/assets/img
 </p>
 
 <p>
-  In my free time, I like to spend my days trying new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats.
+  In my free time, I like to try new coffee shops in the U-District, clim plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats.
 </p>
 
 <p>
