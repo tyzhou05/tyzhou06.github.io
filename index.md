@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 <p>
-  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, collect bucket hats.
+  In my free time, I like to try new coffee shops in the U-District, climb plastic rocks at Seattle Bouldering Project, cook pastas, curate my Spotify playlists, and collect bucket hats.
 </p>
 
 <p>
